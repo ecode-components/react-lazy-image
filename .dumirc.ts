@@ -11,6 +11,7 @@ export default defineConfig({
     name: 'react-lazy-image',
     logo,
   },
+  runtimePublicPath: {},
   publicPath,
   history: {
     type: 'hash',
