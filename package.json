@@ -1,6 +1,6 @@
 {
   "name": "@xmly/pro-image",
-  "version": "1.0.4",
+  "version": "1.0.0",
   "description": "增强型图片组件，支持 图片懒加载、webp格式 的效果",
   "bugs": {
     "url": "https://gitlab.ximalaya.com/react-library/component/pro-image/issues"
