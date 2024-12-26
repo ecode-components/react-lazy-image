@@ -4,7 +4,7 @@
  * defaultShowCode: true
  */
 
-import { ProImage } from '@xmly/pro-image';
+import { ProImage } from '@xmly/react-lazy-image';
 import React from 'react';
 
 export default () => {

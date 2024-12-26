@@ -1,15 +1,14 @@
 import { defineConfig } from 'dumi';
 
-const publicPath =
-  process.env.NODE_ENV === 'production' ? `/component/pro-image/` : '/';
+const publicPath = process.env.NODE_ENV === 'production' ? `./` : '/';
 
 const logo =
   'https://imagev2.xmcdn.com/storages/f8d2-audiofreehighqps/81/43/GMCoOSYIO18uAAAvaAIdYbXD.png';
 
 export default defineConfig({
-  outputPath: 'docs-dist',
+  outputPath: 'site',
   themeConfig: {
-    name: 'pro-image',
+    name: 'react-lazy-image',
     logo,
   },
   publicPath,

@@ -10,7 +10,7 @@ nav:
 ## 安装
 
 ```bash
-yarn add @xmly/pro-image
+yarn add @xmly/react-lazy-image
 ```
 
 ## 使用方式

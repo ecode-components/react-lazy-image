@@ -1,4 +1,4 @@
-# @xmly/pro-image
+# @xmly/react-lazy-image
 
 # 介绍
 
@@ -6,18 +6,18 @@
 
 ## 使用文档
 
-[查看文档](http://react-library.pages.xmly.work/component/pro-image)
+[查看文档](http://react-library.pages.xmly.work/component/react-lazy-image)
 
 ## 安装
 
 ```bash
-yarn add @xmly/pro-image
+yarn add @xmly/react-lazy-image
 ```
 
 ## 示例
 
 ```tsx
-import { ProImage } from '@xmly/pro-image';
+import { ProImage } from '@xmly/react-lazy-image';
 
 export default () => {
   <ProImage
